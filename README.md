@@ -1,13 +1,13 @@
 # WEBP-PNG-TOOLS
 
-A set of tools for managing WEBP and PNG images, designed for renaming, converting, and compressing files in bulk.
+A command-line tool (CLI) for managing WEBP and PNG images, designed for renaming, converting, and compressing files in bulk.
 
 ## Features
 1. **Rename WEBP Files**: Automatically rename all `.webp` files in `./webp-images`.
 2. **Convert WEBP to PNG**: Convert `.webp` images to `.png` in `./png-images`.
 3. **Compress PNG Files**: Compress `.png` images in `./png-images` to reduce file size.
 4. **Rename PNG Files**: Rename `.png` files in `./png-images`.
-5. **Exit**: Option to exit the application.
+5. **Exit**: Option to exit the CLI tool.
 
 ## Usage
 1. Clone the repository.
@@ -31,3 +31,4 @@ A set of tools for managing WEBP and PNG images, designed for renaming, converti
 ## License
 MIT License
 
+---
