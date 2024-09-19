@@ -1,5 +1,8 @@
 # WEBP-PNG-TOOLS
 
+![image](https://github.com/user-attachments/assets/e8d1f660-145c-4391-b0a2-9483d550fbda)
+
+
 A command-line tool (CLI) for managing WEBP and PNG images, designed for renaming, converting, and compressing files in bulk.
 
 ## Features
