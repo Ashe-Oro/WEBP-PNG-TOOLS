@@ -1,0 +1,14 @@
+{
+  "name": "convert-webp-to-png",
+  "version": "1.0.0",
+  "description": "Converts WEBP files to PNG",
+  "main": "convert_webp_to_png.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashe Oro",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
