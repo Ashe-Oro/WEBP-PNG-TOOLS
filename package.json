@@ -1,0 +1,15 @@
+{
+  "name": "webp-png-tools-nft",
+  "version": "1.0.0",
+  "description": "A toolset for managing WEBP and PNG files in NFT workflows",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0",
+    "inquirer": "^8.2.4"
+  },
+  "author": "Ashe Oro",
+  "license": "MIT"
+}
