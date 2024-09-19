@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e8d1f660-145c-4391-b0a2-9483d550fbda)
 
+ChatGPT creates image files with the WEBP file extension, but many NFT tools don't yet support WEBP. 
 
 A command-line tool (CLI) for managing WEBP and PNG images, designed for renaming, converting, and compressing files in bulk.
 
